@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'chatapp',
         'USER': 'chatapp',
         'PASSWORD': 'J.YqwX83zz',
-        'HOST': 'mysqldb.ckz7bawd2dzf.ap-south-1.rds.amazonaws.com',
+        'HOST': '10.0.0.173',
         'PORT': '3306',
     }
 }
